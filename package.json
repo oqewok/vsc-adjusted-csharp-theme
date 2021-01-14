@@ -1,8 +1,8 @@
 {
     "name": "adjusted-csharp-theme",
-    "displayName": "Adjusted CSharp Theme",
-    "description": "Visual Studio Code color theme extension, based on Dark+ theme. Adjusted CSharp Theme tries to mimic the original Visual Studio Studio 2019 color theme as much as possible.",
-    "version": "0.0.1",
+    "displayName": "Adjusted C# Theme",
+    "description": "Visual Studio Code color theme extension, based on Dark+ theme. Adjusted C# Theme tries to mimic the original Visual Studio Studio 2019 color theme as much as possible.",
+    "version": "0.0.2",
     "publisher": "oqewok",
     "license": "Apache-2.0",
     "author": "Andrey Okomin [@oqewok]",
@@ -28,7 +28,7 @@
     ],
     "contributes": {
         "themes": [{
-            "label": "Adjusted CSharp Theme",
+            "label": "Adjusted C# Theme",
             "uiTheme": "vs-dark",
             "path": "./themes/Adjusted-CSharp-color-theme.json"
         }]
