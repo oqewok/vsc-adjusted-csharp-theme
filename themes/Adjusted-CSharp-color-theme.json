@@ -437,7 +437,6 @@
 			"scope":[
 				"storage.type.generic.cs",
 				"entity.name.type.type-parameter.cs",
-				"storage.type.cs",
 				"storage.type.generic.groovy",
 				"storage.type.generic.java",
 			],
