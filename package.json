@@ -6,6 +6,10 @@
     "publisher": "oqewok",
     "license": "Apache-2.0",
     "author": "Andrey Okomin [@oqewok]",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oqewok/vsc-adjusted-csharp-theme"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
