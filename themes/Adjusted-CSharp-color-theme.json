@@ -482,7 +482,8 @@
 				"variable",
 				"meta.definition.variable.name",
 				"support.variable",
-				"entity.name.variable"
+				"entity.name.variable.parameter.cs",
+				"variable.other.readwrite.cs"
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -495,6 +496,15 @@
 			],
 			"settings": {
 				"foreground": "#4FC1FF"
+			}
+		},
+		{
+			"scope":[
+				"entity.name.variable",
+				"entity.name.variable.property.cs"
+			],
+			"settings": {
+				"foreground": "#D4D4D4"
 			}
 		},
 		{

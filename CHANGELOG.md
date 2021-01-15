@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+## [0.0.4] - 2021-01-16
+- C# property color changed to white
+
 ## [0.0.3] - 2021-01-14
 ### Changed
 - Class-type parameters are colored equal to other class types
